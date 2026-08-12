@@ -21,7 +21,7 @@ I learn by building — **Learn → Build → Break → Debug → Improve → Sh
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🤖 AI / Data / ML
 
@@ -32,26 +32,38 @@ I learn by building — **Learn → Build → Break → Debug → Improve → Sh
 
 `LLMs` `Groq API` `Prompt Engineering` `Pydantic` `PyPDF`
 
-### 💻 Full-Stack
+### 💻 Full-Stack Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 `Redux Toolkit` `Zustand` `Socket.io` `JWT` `REST APIs`
 
-### 🗄️ Languages & Databases
+### 🧑‍💻 Languages
 
-`Python` `Java` `JavaScript` `C` `SQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-`MongoDB` `MySQL`
+### 🗄️ Databases
 
-### 🔧 Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-`Git` `GitHub` `VS Code` `Linux` `Vite` `Figma`
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
@@ -110,11 +122,11 @@ A full-stack real-time communication application with authentication and live me
 
 Building data analysis projects to strengthen my understanding of real-world datasets and prepare for Machine Learning.
 
-**Current workflow:**
+**Current workflow**
 
 `NumPy` → `Pandas` → `Data Cleaning` → `EDA` → `Visualization` → `Machine Learning`
 
-**Projects:**
+**Projects**
 
 * 🚢 Titanic Dataset Analysis
 * 🛒 Sales Dataset Analysis
@@ -144,24 +156,21 @@ AI Agents & Advanced AI Systems
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-* [ ] Build production-ready AI applications
-* [ ] Strengthen Python for AI/ML
-* [ ] Complete Data Analytics → ML journey
-* [ ] Build end-to-end ML projects
-* [ ] Deepen LLM application development
-* [ ] Learn AI agents & tool calling
-* [ ] Strengthen DSA with Java
-* [ ] Revise and improve MERN projects
-* [ ] Contribute to open source
+🤖 Build production-ready AI applications
+📊 Complete the Data Analytics → ML journey
+🧠 Deepen LLM application development
+🧩 Strengthen DSA with Java
+💻 Build and improve full-stack projects
+🌱 Contribute to open source
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-Bansal9&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-Bansal9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Bansal9&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
